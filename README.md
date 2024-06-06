@@ -1,16 +1,18 @@
-***Boas vindas ao meu perfil
+### Boas vindas ao meu perfil 💙💙
+Meu nome é Kelly Da Silveira
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+kellydasilveira3@gmail.com       
+
+@_kellydasilveira95
+
+ ![](https://media1.tenor.com/m/Q6rgr_3z9W0AAAAC/kiss.gif)
 
 
-**fantauva16/fantauva16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
